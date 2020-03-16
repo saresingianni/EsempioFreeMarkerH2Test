@@ -41,9 +41,19 @@ per vedere gli screen shot se siamo in ambiente di sviuluppo occorre aprirla in 
 </br>
 
 
+### Il risultato  si chiama EsempioFreeMarkerH2-0.0.1-SNAPSHOT.jar 
+
+</br>
 
 
+[EsempioFreeMarkerH2-0.0.1-SNAPSHOT.jar (salva oggetto con nome)](EsempioFreeMarkerH2-0.0.1-SNAPSHOT.jar)
 
+il comando avendo a dispozione java dalla versione 1.8 è nel prompt posizionato in radice è
+
+java -jar EsempioFreeMarkerH2-0.0.1-SNAPSHOT.jar 
+
+nel browser [http://localhost:8080](http://localhost:8080)
+</br>
 ### Tecnologie impiegate per il Frontend  e Box Office di Venezia
 
 * [frontend dell'esempio Ã¨ stato integrato con il framewrok inspinia  ](http://webapplayers.com/inspinia_admin-v2.9.3/)
