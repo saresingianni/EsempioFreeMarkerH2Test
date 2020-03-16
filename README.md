@@ -4,35 +4,35 @@
 ### La parte orginale della demo dove ho preso spunto lo trovi qui sotto 
 per vedere gli screen shot se siamo in ambiente di sviuluppo occorre aprirla in un altra finestra. 
  
- * [Foto della pagina iniziale demo donwload (salva oggetto con nome) ](pagine/paginauno.jpg))
+ * [Foto della pagina iniziale demo donwload (salva oggetto con nome) ](src/main/resources/pagine/paginauno.jpg))
  
  <p align="left">
-  <img src="pagine/paginauno.jpg" width="350" title="Foto della pagina iniziale demo">
+  <img src="src/main/resources/pagine/paginauno.jpg" width="350" title="Foto della pagina iniziale demo">
 
 </p>
  
 
 
-* [Foto pagina utenti 5 quinto piano  donwload (salva oggetto con nome) ](pagine/paginadue.jpg)
+* [Foto pagina utenti 5 quinto piano  donwload (salva oggetto con nome) ](src/main/resources/pagine/paginadue.jpg)
 
  <p align="left">
-  <img src="pagine/paginadue.jpg" width="350" title="Foto elenco quinto pisno  demo">
+  <img src="src/main/resources/pagine/paginadue.jpg" width="350" title="Foto elenco quinto pisno  demo">
 
 </p>
 
-* [Foto demo applicattivo  demo donwload (salva oggetto con nome)](pagine/paginatre.jpg)
+* [Foto demo applicattivo  demo donwload (salva oggetto con nome)](src/main/resources/pagine/paginatre.jpg)
  
  
  <p align="left">
-  <img src="pagine/paginatre.jpg" width="350" title="Foto elenco test ">
+  <img src="src/main/resources/pagine/paginatre.jpg" width="350" title="Foto elenco test ">
 
 </p>
 
-* [Foto demo applicattivo galleria carosello cliccando sulla foto donwload (salva oggetto con nome)](pagine/paginaquattro.jpg)
+* [Foto demo applicattivo galleria carosello cliccando sulla foto donwload (salva oggetto con nome)](src/main/resources/pagine/paginaquattro.jpg)
  
  
  <p align="left">
-  <img src="pagine/paginaquattro.jpg" width="350" title="Foto elenco test ">
+  <img src="src/main/resources/pagine/paginaquattro.jpg" width="350" title="Foto elenco test ">
 
 </p>
 
@@ -46,7 +46,7 @@ per vedere gli screen shot se siamo in ambiente di sviuluppo occorre aprirla in 
 </br>
 
 
-[EsempioFreeMarkerH2-0.0.1-SNAPSHOT.jar (salva oggetto con nome)](EsempioFreeMarkerH2-0.0.1-SNAPSHOT.jar)
+[EsempioFreeMarkerH2-0.0.1-SNAPSHOT.jar (salva oggetto con nome)](https://github.com/saresingianni/EsempioFreeMarkerH2Test/blob/master/EsempioFreeMarkerH2-0.0.1-SNAPSHOT.jar)
 
 il comando avendo a dispozione java dalla versione 1.8 � nel prompt posizionato in radice �
 
@@ -56,13 +56,13 @@ nel browser [http://localhost:8080](http://localhost:8080)
 </br>
 ### Tecnologie impiegate per il Frontend  e Box Office di Venezia
 
-* [frontend dell'esempio è stato integrato con il framewrok inspinia  ](http://webapplayers.com/inspinia_admin-v2.9.3/)
+* [frontend dell'esempio risulta integrato con il framewrok inspinia  ](http://webapplayers.com/inspinia_admin-v2.9.3/)
 
 
-* [l'esempio di utlizzo è il  box office di Venezia  ](https://trade.veneziaunica.it/vu-bo-spring/login)
+* [l'esempio di utlizzo risulta il  box office di Venezia  ](https://trade.veneziaunica.it/vu-bo-spring/login)
 
 
-* [help on line spiegazione ed utilizzo del box Office l'utilità e di erogare biglietti - Voucher studiato per agenzie di viaggio è presente la funzione pagamento elettronico ](https://trade.veneziaunica.it/vu-bo-spring/resources/help/it/trade_def/trade.html)
+* [help on line spiegazione ed utilizzo del box Office l'utilità e di erogare biglietti - Voucher studiato per agenzie di viaggio risulta presente la funzione pagamento elettronico ](https://trade.veneziaunica.it/vu-bo-spring/resources/help/it/trade_def/trade.html)
 
 
 
